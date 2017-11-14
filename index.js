@@ -1,2 +1,2 @@
-const companyName = 'Scuber';
+it companyName = 'Scuber';
 // Code your solution in this file!
